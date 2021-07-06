@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1625477428 source:c:\codeblocks_programs\factorial using function\main.cpp
+	<iostream>
+
